@@ -1,0 +1,8 @@
+pandas
+deep-translator
+nltk
+scikit-learn
+pypeln
+io
+matplotlib
+wordcloud
