@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  The need for business news data needed as additional information to analyze the financial condition of customers in the bank sector
+  Couriousity drive me to developed tools to make me easier for view latest news without visiting multiple news portal. 
 </p>
 
 <p align="center">
@@ -21,3 +21,33 @@
    <img alt="Scikit Learn" title="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F38020?logo=scikitlearn&logoColor=white"/>
   <img alt="BeautifulSoup" title="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-57A143?logo=package-24&logoColor=white"/>
 </p>
+
+---
+
+### Usage
+- Get news
+```python
+import newslake
+nl = newslake.get_news(regions=['id'],topics=["international"],n_news=5,language='id')
+nl.head(5)
+```
+- Generate wordcloud
+```python
+nl.wordcloud()
+```
+- Generate Timeseries Wordcloud
+```python
+nl.timeseries_wordcloud()
+```
+
+### Program Flow
+1. User given parameter through `get_news` attribute
+2. Request to each news portal RSS based on inputed parameter
+3. Parse the RSS to get attribute (article link, title, published date, content) using BeautifulSoup
+4. Translate content based on `language` parameter using google translate
+5. Convert data to pandas dataframe
+   
+---
+
+### The Author
+<img alt="Salomo Hendrian Sudjono" title="Salomo Hendrian Sudjono" src="https://custom-icon-badges.demolab.com/badge/-Salomo%20Hendrian%20Sudjono-blue?style=for-the-badge&logo=person-fill&logoColor=white"/>
