@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=End-to-end+news+scraping" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=175D9C&center=true&vCenter=true&width=435&lines=Collect%2C+explore%2C+and+stay+updated" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  Couriousity drive me to developed tools to make me easier for view latest news without visiting multiple news portal. 
+  Couriousity drive me to developed this tools <br> Make me easier for view latest news without visiting multiple news portal. 
 </p>
 
 <p align="center">
