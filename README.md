@@ -28,8 +28,8 @@
 - Get news
 ```python
 import newslake
-nl = newslake.get_news(regions=['id'],topics=["international"],n_news=5,language='id')
-nl.head(5)
+nl = newslake.get_news(regions=['id'],topics=["international"],n_news=5,language='id') # Return pandas dataframe
+nl.head(5) 
 ```
 - Generate wordcloud
 ```python
@@ -39,6 +39,8 @@ nl.wordcloud()
 ```python
 nl.timeseries_wordcloud()
 ```
+
+---
 
 ### Program Flow
 1. User given parameter through `get_news` attribute
