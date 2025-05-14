@@ -1,0 +1,94 @@
+{
+    "id":{
+        "indonesia" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/nasional/rss",
+            "cnbcindonesia": "https://www.cnbcindonesia.com/news/rss",
+            "liputan6":"https://feed.liputan6.com/rss/news",
+            "detik":"https://news.detik.com/berita/rss"
+        },
+
+        "international" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/internasional/rss",
+            "cnbcindonesia": "https://www.cnbcindonesia.com/news/rss",
+            "liputan6":"https://feed.liputan6.com/rss/global/internasional",
+            "detik":"https://news.detik.com/internasional/rss"
+        },
+
+        "business" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/ekonomi/rss",
+            "cnbcindonesia": "https://www.cnbcindonesia.com/market/rss",
+            "liputan6":["https://feed.liputan6.com/rss/bisnis","https://feed.liputan6.com/rss/saham"],
+            "detik":["https://finance.detik.com/rss","https://inet.detik.com/business-policy/rss"]
+        },
+
+        "technology" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/teknologi/rss",
+            "cnbcindonesia": "https://www.cnbcindonesia.com/tech/rss",
+            "liputan6":"https://feed.liputan6.com/rss/tekno",
+            "detik":["https://inet.detik.com/telecommunication/rss","https://inet.detik.com/gadget/rss"]
+        },
+
+        "sport" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/olahraga/rss",
+            "liputan6":"https://feed.liputan6.com/rss/bola",
+            "detik":"https://sport.detik.com/rss"
+        },
+
+        "entertainment" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/hiburan/rss",
+            "liputan6":"https://feed.liputan6.com/rss/showbiz",
+            "detik":"https://hot.detik.com/rss"
+        },
+
+        "lifestyle" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/olahraga/gaya-hidup",
+            "liputan6":"https://feed.liputan6.com/rss/lifestyle",
+            "detik":"https://health.detik.com/"
+        },
+
+        "automotive" : {
+            "cnnindonesia": "https://www.cnnindonesia.com/olahraga/otomotif",
+            "liputan6":"https://feed.liputan6.com/rss/otomotif",
+            "detik":"https://oto.detik.com/rss"
+        }
+    },
+    "us":{
+        "international" : {
+            "foxnews":"https://moxie.foxnews.com/google-publisher/world.xml",
+            "cnbc":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+            "cnnbusiness":"http://rss.cnn.com/rss/money_news_international.rss",
+            "washingtonpost":"https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_31"
+        },
+        "unitedstates": {
+            "foxnews":["https://moxie.foxnews.com/google-publisher/politics.xml","https://moxie.foxnews.com/google-publisher/us.xml","https://moxie.foxnews.com/google-publisher/politics.xml"],
+            "cnbc":["https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15837362","https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113"],
+            "washingtonpost":["https://feeds.washingtonpost.com/rss/national?itid=lk_inline_manual_30","https://www.washingtonpost.com/arcio/rss/category/politics/"]
+        },
+        "technology" : {
+            "foxnews":"https://moxie.foxnews.com/google-publisher/tech.xml",
+            "cnbc":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+            "cnnbusiness":"http://rss.cnn.com/rss/money_technology.rss",
+            "washingtonpost":"https://feeds.washingtonpost.com/rss/business/technology"
+        },
+        "lifestyle" : {
+            "foxnews":"https://moxie.foxnews.com/google-publisher/health.xml",
+            "cnbc":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108",
+            "cnnbusiness":["http://rss.cnn.com/rss/money_lifestyle.rss","http://rss.cnn.com/rss/money_realestate.rss","http://rss.cnn.com/rss/money_luxury.rss"],
+            "washingtonpost":"https://feeds.washingtonpost.com/rss/lifestyle"
+        },
+        "entertainment" : {
+            "foxnews":"https://moxie.foxnews.com/google-publisher/world.xml",
+            "washingtonpost":"http://feeds.washingtonpost.com/rss/entertainment"
+        },
+        "sports" : {
+            "foxnews":"https://moxie.foxnews.com/google-publisher/sports.xml",
+            "washingtonpost":"https://feeds.washingtonpost.com/rss/sports"
+        },
+        "business":{
+            "cnbc":["https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147","https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135","https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258","https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"],
+            "cnnbusiness":["http://rss.cnn.com/rss/money_news_economy.rss","http://rss.cnn.com/rss/money_news_companies.rss","http://rss.cnn.com/rss/money_markets.rss"],
+            "washingtonpost":"http://feeds.washingtonpost.com/rss/business"
+        }
+    }
+}
+
