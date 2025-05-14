@@ -19,5 +19,5 @@
     <img alt="Matplotlib" title="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff"/>
     <img alt="Google Translate" title="Google Translate" src="https://img.shields.io/badge/Google%20Translate-%234285F4.svg?logo=googletranslate&logoColor=white"/>
    <img alt="Scikit Learn" title="Scikit Learn" src="https://img.shields.io/badge/Scikit%20Learn-F38020?logo=scikitlearn&logoColor=white"/>
-  <img alt="BeautifulSoup" title="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-57A143?logo=package&logoColor=white"/>
+  <img alt="BeautifulSoup" title="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-57A143?logo=package-24&logoColor=white"/>
 </p>
