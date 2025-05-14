@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Couriousity drive me to developed this tools <br> Make me easier for view latest news without visiting multiple news portal. 
+  Couriousity drive me to developed this tools. <br> Make me easier for view latest news without visiting multiple news portal. 
 </p>
 
 <p align="center">
